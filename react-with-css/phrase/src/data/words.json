@@ -1,0 +1,20 @@
+[
+    {
+        "id":"sujet",
+        "position": 1,
+        "name": "Le sujet",
+        "values": ["Le chat", "Le chien", "Le canard", "L'ours", "L'oiseau"]
+    },
+    {
+        "id":"verbe",
+        "position": 1,
+        "name": "Le verbe",
+        "values": ["mange", "boit", "conduit", "lit", "joue"]
+    },
+    {
+        "id":"complement",
+        "position": 1,
+        "name": "Le complément",
+        "values": ["une pomme", "de l'eau", "un bus", "un livre", "à la Switch II"]
+    }
+]
