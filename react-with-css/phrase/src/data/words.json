@@ -9,12 +9,12 @@
         "id":"verbe",
         "position": 1,
         "name": "Le verbe",
-        "values": ["mange", "boit", "conduit", "lit", "joue"]
+        "values": ["mange", "boit", "conduit", "lit", "joue à"]
     },
     {
         "id":"complement",
         "position": 1,
         "name": "Le complément",
-        "values": ["une pomme", "de l'eau", "un bus", "un livre", "à la Switch II"]
+        "values": ["une pomme.", "de l'eau.", "un bus.", "un livre.", "la Switch II."]
     }
 ]
