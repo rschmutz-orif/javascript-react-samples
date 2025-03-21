@@ -1,3 +1,15 @@
-.phrase-selection{
-    
+.phrase-selection li:hover{
+    cursor:pointer;
+    text-decoration: underline;
+}
+
+.phrase-selection li.active, .phrase-selection li.active:hover{
+    cursor:default;
+    text-decoration: none;
+    color:#999;
+}
+
+.phrase-selection nav a.active{
+    text-decoration: none;
+    color:#999;
 }
